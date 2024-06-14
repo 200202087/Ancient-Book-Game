@@ -18,7 +18,7 @@ Ancient Book immerses players in a mystical world where they must use their wits
 ## How to Play
 
 1. **Download and Install**: Download the game from the release section on this GitHub repository.
-2. **Run the Game**: Extract the downloaded files and run the executable file to start your adventure.
+2. **Run the Game**: Extract the downloaded files and run **BitirmeProjesi.exe** to start your adventure.
 3. **Master Your Spells**:
    - **Read the Spellbook**: Study the descriptions of your three spells.
    - **Identify Weaknesses**: Determine which spell is most effective against each enemy.
