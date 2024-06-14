@@ -33,16 +33,20 @@ Ancient Book immerses players in a mystical world where they must use their wits
 ## Screenshots
 
 **Sample animation frames produced with the model we trained**
-![Screenshot 1](Screenshots/screenshot_5.png)
+
+![Screenshot 1](Screenshots/Screenshot_5.png)
 
 **A sample dialog between an NPC and our character**
-![Screenshot 1](Screenshots/screenshot_2.png)
+
+![Screenshot 2](Screenshots/Screenshot_2.png)
 
 **Spells that the player has to figure out which enemy to use them for**
-![Screenshot 1](Screenshots/screenshot_3.png)
+
+![Screenshot 3](Screenshots/Screenshot_3.png)
 
 **The part where the player must correctly spell a spell within three seconds**
-![Screenshot 1](Screenshots/screenshot_4.png)
+
+![Screenshot 4](Screenshots/Screenshot_4.png)
 
 ## Acknowledgements
 
